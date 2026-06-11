@@ -1,8 +1,8 @@
 # Skills
 
-A small, reusable library of workflow skills for spec-first engineering. 🧭
+A small, reusable library of workflow skills for spec-first engineering.
 
-This repo is meant to help a small team move faster without becoming casual about system design. The default motion is simple: write down the intended change, challenge whether it is the right change, refine the spec until it is implementation-ready, then build from that agreement.
+This repo is meant to help a small team move faster without becoming casual about syst🐧em design. The default motion is simple: write down the intended change, challenge whether it is the right change, refine the spec until it is implementation-ready, then build from that agreement.
 
 ## Core Workflow
 
