@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement Spec"
+  short_description: "Build from an accepted spec"
+  default_prompt: "Use $implement-spec to implement this accepted spec with focused verification."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Challenge Spec"
+  short_description: "Pressure-test a plan or spec"
+  default_prompt: "Use $challenge-spec to review this spec for necessity, fit, risk, and simpler alternatives."

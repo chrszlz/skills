@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refine Spec"
+  short_description: "Tighten reviewed specs into plans"
+  default_prompt: "Use $refine-spec to incorporate review feedback and make this spec implementation-ready."

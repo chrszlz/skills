@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Diff"
+  short_description: "Review implementation diffs"
+  default_prompt: "Use $review-diff to review this implementation diff against the intended behavior and spec."
