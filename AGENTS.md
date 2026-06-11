@@ -29,7 +29,7 @@ These skills exist to make engineering judgment more repeatable:
 Run the skill validator on every changed skill:
 
 ```sh
-python3 /Users/chris/.codex/skills/.system/skill-creator/scripts/quick_validate.py ./skill-name
+python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py ./skill-name
 ```
 
 For larger changes, forward-test with prompts from `docs/pressure-scenarios.md`. Validate behavior from outputs, not from assumptions about what the skill should have done.
@@ -39,7 +39,7 @@ For larger changes, forward-test with prompts from `docs/pressure-scenarios.md`.
 Use the official scaffold for new skills:
 
 ```sh
-python3 /Users/chris/.codex/skills/.system/skill-creator/scripts/init_skill.py skill-name --path /Users/chris/code/skills
+python3 ~/.codex/skills/.system/skill-creator/scripts/init_skill.py skill-name --path ~/code/skills
 ```
 
 When updating `agents/openai.yaml`, keep `display_name`, `short_description`, and `default_prompt` aligned with `SKILL.md`.
