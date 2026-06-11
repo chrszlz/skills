@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplify Diff"
+  short_description: "Reduce unnecessary code shape"
+  default_prompt: "Use $simplify-diff to simplify this working diff without changing intended behavior."

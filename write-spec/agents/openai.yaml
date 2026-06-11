@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Spec"
+  short_description: "Decide and draft engineering specs"
+  default_prompt: "Use $write-spec to decide whether this change needs a spec and draft one if it does."
